@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F64CE5729B24A1500ECF1E3 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7F64CE5629B24A1500ECF1E3 /* .gitignore */; };
 		7F88175029B0E7290029DABC /* BreedScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F88174F29B0E7290029DABC /* BreedScreen.storyboard */; };
 		7F88175229B0E7300029DABC /* BreedScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F88175129B0E7300029DABC /* BreedScreen.swift */; };
 		7FAA030829B08B2E0090F1BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FAA030729B08B2E0090F1BE /* AppDelegate.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F64CE5629B24A1500ECF1E3 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 		7F88174F29B0E7290029DABC /* BreedScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = BreedScreen.storyboard; sourceTree = "<group>"; };
 		7F88175129B0E7300029DABC /* BreedScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedScreen.swift; sourceTree = "<group>"; };
 		7FAA030429B08B2E0090F1BE /* fetchFreeApi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fetchFreeApi.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -77,6 +79,7 @@
 		7FAA030629B08B2E0090F1BE /* fetchFreeApi */ = {
 			isa = PBXGroup;
 			children = (
+				7F64CE5629B24A1500ECF1E3 /* .gitignore */,
 				7F88174E29B0E6FE0029DABC /* BreedScreen */,
 				7FAA031E29B099180090F1BE /* Models */,
 				7FAA031B29B0987C0090F1BE /* Misc */,
@@ -167,6 +170,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F64CE5729B24A1500ECF1E3 /* .gitignore in Resources */,
 				7FAA031429B08B300090F1BE /* LaunchScreen.storyboard in Resources */,
 				7FAA031129B08B300090F1BE /* Assets.xcassets in Resources */,
 				7FAA030F29B08B2E0090F1BE /* Main.storyboard in Resources */,
